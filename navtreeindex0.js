@@ -1,0 +1,23 @@
+var NAVTREEINDEX0 =
+{
+"annotated.html":[0,0],
+"classangka.html":[0,0,0],
+"classangka.html#a2ddf91b69243b80ba7c234d1fc06bf93":[0,0,0,2],
+"classangka.html#a5c4cc7682c0347661cfd7fc98258d1bd":[0,0,0,3],
+"classangka.html#a89745b95e18e01897c80fdf9b3f69614":[0,0,0,1],
+"classangka.html#aa6226d9f0d54f15ec745fdaa627a77c1":[0,0,0,0],
+"classes.html":[0,1],
+"destructor_8cpp.html":[1,0,0,0,0,0,0],
+"destructor_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[1,0,0,0,0,0,0,1],
+"dir_1e75e24d2127d845fb3a09253e17fd00.html":[1,0,0,0,0],
+"dir_275089585c7fc1b5fd5d7d42c69cb1da.html":[1,0,0],
+"dir_c5cb831206ddd9f8202633265970b3d9.html":[1,0,0,0,0,0],
+"dir_f3917aafff592263c98015057db81f40.html":[1,0,0,0],
+"files.html":[1,0],
+"functions.html":[0,2,0],
+"functions_func.html":[0,2,1],
+"globals.html":[1,1,0],
+"globals_func.html":[1,1,1],
+"index.html":[],
+"pages.html":[]
+};
